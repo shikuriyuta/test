@@ -15,7 +15,6 @@ pip install pyarmor
 
 operation.py : solver of BNSL
 ```python
-data = "asia" # dataset (asia, child, insurance, water, alarm, barley, hailfinder, hepar2) 
 dir_ = "./" # directory
 data = "asia" # dataset
 iter_n = 10 # number of samplings
